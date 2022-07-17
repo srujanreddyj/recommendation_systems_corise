@@ -1,1 +1,3 @@
-# recommendation_systems_corise
+# Personalized Recommendations at Scale
+
+
